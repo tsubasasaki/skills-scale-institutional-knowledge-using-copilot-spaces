@@ -31,7 +31,9 @@ Quality and release practices are built into the workflow rather than treated as
 | [Risks & Communication](octoacme-risks-and-communication.md) | Risk register, communication templates, escalation paths, and stakeholder updates |
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release checklist, staging validation, rollback planning, and post-deploy verification |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retro formats, action item tracking, and feeding improvements back into the process |
-| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for PM, Product Lead, Developers, QA, and Stakeholders |
+| [Roles & Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for PM, Product Lead, Developers, QA, UX, DevOps, BA, and Stakeholders |
+| [Role Handoff Checklist](octoacme-role-handoff-checklist.md) | Lightweight checklist for explicit, low-friction handoffs between roles at each lifecycle stage |
+| [Definition of Ready / Definition of Done](octoacme-definition-of-ready-done.md) | Shared quality gates (DoR and DoD) and a RACI-lite matrix for key delivery checkpoints |
 
 ## How to Use These Docs
 
